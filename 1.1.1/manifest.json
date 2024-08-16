@@ -1,0 +1,10 @@
+﻿{
+	"Name": "HopperExtractor",
+	"Author": "BPavol, MissionSBinnala",
+	"Version": "1.1.1",
+	"Description": "Adds ability for hoppers to extract items from machines.",
+	"UniqueID": "bpavol.hopper_extractor",
+	"EntryDll": "HopperExtractor.dll",
+	"MinimumApiVersion": "4.0.0",
+	"UpdateKeys": [ "Nexus:16688" ]
+}
